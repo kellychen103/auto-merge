@@ -1,3 +1,3 @@
 # auto-merge
-Another change!
+Another change!!
 Testing auto merge functionality!!
